@@ -16,7 +16,7 @@ fun SecondScreen(navController: NavController) {
     Box(
         modifier = Modifier
             .fillMaxSize()
-            .background(Color(0xFF3F51B5)),
+            .background(Color(0xFF3FB5B1)),
         contentAlignment = Alignment.Center
     ) {
         Button(

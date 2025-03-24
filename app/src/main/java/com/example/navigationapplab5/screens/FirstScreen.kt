@@ -16,7 +16,7 @@ fun FirstScreen(navController: NavController) {
     Box(
         modifier = Modifier
             .fillMaxSize()
-            .background(Color(0xFF03A9F4)),
+            .background(Color(0xFF1303F4)),
         contentAlignment = Alignment.Center
     ) {
         Button(

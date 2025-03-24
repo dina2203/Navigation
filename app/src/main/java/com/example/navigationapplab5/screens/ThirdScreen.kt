@@ -27,7 +27,7 @@ fun ThirdScreen(navController: NavController) {
         Button(
             onClick = { navController.navigate("first_screen") },
             colors = ButtonDefaults.buttonColors(
-                containerColor = Color(0xFF6200EE)
+                containerColor = Color(0xFFE600EE)
             ),
             modifier = Modifier.padding(16.dp)
         ) {
